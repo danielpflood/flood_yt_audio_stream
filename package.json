@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/danielpflood/flood_yt_audio_stream/issues"
   },
-  "homepage": "https://github.com/danielpflood/flood_yt_audio_stream"
+  "homepage": "https://github.com/danielpflood/flood_yt_audio_stream",
+  "devDependencies": {
+    "youtube-audio-stream": "0.0.25"
+  }
 }
