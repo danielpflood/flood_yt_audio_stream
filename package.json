@@ -1,0 +1,25 @@
+{
+  "name": "flood_yt_audio_stream",
+  "version": "1.0.0",
+  "description": "Stream youtube audio from CLI.",
+  "main": "flood_stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielpflood/flood_yt_audio_stream"
+  },
+  "keywords": [
+    "youtube",
+    "CLI",
+    "audio",
+    "stream"
+  ],
+  "author": "Daniel Flood <daniel@floodweb.us> (https://floodweb.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielpflood/flood_yt_audio_stream/issues"
+  },
+  "homepage": "https://github.com/danielpflood/flood_yt_audio_stream"
+}
